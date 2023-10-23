@@ -4,3 +4,4 @@ __pycache__/
 .envrc
 .venv/
 .ipynb_checkpoints/
+*.pdf
