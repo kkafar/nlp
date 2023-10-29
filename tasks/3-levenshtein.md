@@ -53,3 +53,7 @@ The task introduces the Levenshtein distance - a measure that is useful in tasks
 1. ElasticSearch has
    a [fuzziness](https://www.elastic.co/guide/en/elasticsearch/reference/current/query-dsl-fuzzy-query.html)
    parameter for finding approximate matches of a query.
+
+## Breadcrubs
+
+slota, inner (software similar to spacy?)
